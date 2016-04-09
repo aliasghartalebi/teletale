@@ -236,7 +236,7 @@ function create_config( )
     "all",
     "leave_ban"
     },
-    sudo_users = {151590044},--Sudo users
+    sudo_users = {101564409},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[TeleKing bot 2.3
@@ -246,7 +246,7 @@ function create_config( )
     ‼️ this bot is made by : @creed_is_dead
    〰〰〰〰〰〰〰〰
    ߔࠀ   our admins are : 
-   ߔࠀ   @teelegram356
+   ߔࠀ   @fucker_rasol_fucker
    〰〰〰〰〰〰〰〰
   ♻️ You can send your Ideas and messages to Us By sending them into bots account by this command :
    تمامی درخواست ها و همه ی انتقادات و حرفاتونو با دستور زیر بفرستین به ما
