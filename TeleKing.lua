@@ -243,7 +243,7 @@ function create_config( )
     
      Hello my Good friends 
      
-    ‼️ this bot is made by : @creed_is_dead
+    ‼️ this bot is made by  :teleking_bots
    〰〰〰〰〰〰〰〰
    ߔࠀ   our admins are : 
    ߔࠀ   @fucker_rasol_fucker
